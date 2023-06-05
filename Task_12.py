@@ -23,3 +23,15 @@ for i in range(a + b):
 print(*res if len(res) == 2 else res + res)
 
 print()
+print('- - - - - - - - - - - - - - - - - - ')
+print()
+
+x = int(input('Ведите 1-е число: '))
+y = int(input('Ведите 2-е число: '))
+for i in range(x):
+    for j in range(y):
+        if x == i + j and y == i * j:
+            print(i, j)
+
+print()
+print('- - - - - - - - - - - - - - - - - - ')
