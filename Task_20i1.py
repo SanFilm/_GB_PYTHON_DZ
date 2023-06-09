@@ -1,3 +1,5 @@
+# https://github.com/MarinaOkBerd/Python_Homework_3/blob/main/Task_20.py
+
 print()
 print('- - - - - - - - - - - - - - - - - - ')
 print('--- Напишите программу, которая вычисляет стоимость введенного пользователем слова. ---')

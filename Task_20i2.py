@@ -1,3 +1,5 @@
+# https://proglib.io/p/slovari-v-python-12-zadach-dlya-nachinayushchih-s-resheniyami-2022-01-28
+
 print()
 print('- - - - - - - - - - - - - - - - - - ')
 print('--- Напишите программу, которая вычисляет стоимость введенного пользователем слова. ---')
@@ -37,6 +39,5 @@ else:
 	print(sum([k for i in text for k, v in points_en.items() if i in v]))
 
 # [ ] -------------------------------------------------<-<-<-
-
 print()
 print('- - - - - - - - - - - - - - - - - - ')
